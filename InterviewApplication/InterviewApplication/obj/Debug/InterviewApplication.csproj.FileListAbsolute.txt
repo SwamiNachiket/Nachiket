@@ -1,0 +1,6 @@
+C:\Users\faculty\source\repos\InterviewApplication\InterviewApplication\bin\Debug\InterviewApplication.exe.config
+C:\Users\faculty\source\repos\InterviewApplication\InterviewApplication\bin\Debug\InterviewApplication.exe
+C:\Users\faculty\source\repos\InterviewApplication\InterviewApplication\bin\Debug\InterviewApplication.pdb
+C:\Users\faculty\source\repos\InterviewApplication\InterviewApplication\obj\Debug\InterviewApplication.csprojAssemblyReference.cache
+C:\Users\faculty\source\repos\InterviewApplication\InterviewApplication\obj\Debug\InterviewApplication.exe
+C:\Users\faculty\source\repos\InterviewApplication\InterviewApplication\obj\Debug\InterviewApplication.pdb
